@@ -30,6 +30,80 @@ This is a full-stack AI chatbot application powered by OpenAI and LangChain for 
 
 
 
+---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+- Python 3.10+
+- Node.js 18+
+- OpenAI API Key
+
+### 🔌 Backend & Frontend Setup
+
+```bash
+pip install -r requirements.txt
+# Set OPENAI_API_KEY in .env
+python app.py
+
+cd frontend
+npm install
+npm run dev
+
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3, JavaScript, React.js
+* **AI Backend:** GPT-powered stock analysis (e.g., OpenAI API)
+* **UI/UX:** Modern gradients, smooth shadows, responsive design
+* **Alerts:** In-app + Email Notification system
+
+---
+
+## 📦 How to Run Locally
+
+```bash
+git clone https://github.com/your-username/ai-stock-advisor.git
+cd ai-stock-advisor
+npm install
+npm start
+```
+
+Make sure to set your API keys (for OpenAI and email alerts) in a `.env` file:
+
+```env
+OPENAI_API_KEY=your_api_key_here
+
+```
+
+---
+
+## ✨ Future Enhancements
+
+* 📈 Add stock chart visualizations
+* 📬 SMS price alerts
+* 🔍 Advanced stock filters (P/E ratio, sector, volume)
+* 🗂️ Watchlist management
+
+---
+
+## 📩 Contact
+
+Have feedback or want to collaborate?
+
+📧 Email: [rajrohith.003@gmail.com](mailto:rajrohith.003@gmail.com)  
+
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+
+
 
 
 
