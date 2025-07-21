@@ -12,14 +12,14 @@ This is a full-stack AI chatbot application powered by OpenAI and LangChain for 
 - 💬 Chat-like UI with real-time responses.
 ## 📸 Screenshots
 
-### 🧠 Ask AI Page
+### 🚨 Alert Page
 ![Ask AI](./screenshots/Screenshot%202025-07-21%20115856.png)
 
 
 ### 📩 Enquiry Page
 ![Enquiry](./screenshots/Screenshot%202025-07-21%20120245.png)
 
-### 🚨 Alert Page
+### 🧠 Ask AI Page
 ![Alert](./screenshots/Screenshot%202025-07-21%20122004.png)
 
 ### 📋 Flask Server Running
