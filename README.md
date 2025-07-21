@@ -26,29 +26,10 @@ This is a full-stack AI chatbot application powered by OpenAI and LangChain for 
 ![Flask Server](./screenshots/Screenshot%202025-07-21%20122015.png)
 
 ## 📁 Project Structure
-AI-Stock-Advisor/
-│
-├── app.py # Flask backend entry point
-├── chatbot.py # LangChain logic for restricted AI responses
-├── price_checker.py # Handles price alert checking
-├── alerts.json # JSON file to store user-defined alerts
-├── send_email.py # Email logic to notify users (via Gmail)
-├── .env # API keys: OpenAI & Gmail credentials
-├── requirements.txt # Python dependencies
-│
-├── frontend/ # React frontend (Vite)
-│ ├── public/
-│ │ └── index.html # HTML entry point
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── ChatbotForm.jsx # Ask AI chatbot component
-│ │ │ └── AlertForm.jsx # Set stock price alert component
-│ │ ├── App.jsx
-│ │ ├── index.js
-│ │ └── api.js # Axios configuration to call Flask API
-│ └── package.json # NPM dependencies & scripts
-│
-└── README.md
+![Enquiry](./screenshots/Screenshot%202025-07-21%20123152.png)
+
+
+
 
 
 
